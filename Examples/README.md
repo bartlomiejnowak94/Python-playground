@@ -26,6 +26,6 @@ cf = 1/cf + a0
 
 ## Two Sum
 
-File: [two-sum.py](two-sum.py)
+File: [two-sum.ipynb](two-sum.ipynb)
 
 We have given list like `[1,3,5,6,11,23]` and sum of some two values from this list `sum = 9`. We need to find these values, like here `3,6`.

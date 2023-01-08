@@ -27,7 +27,7 @@ cf = 1/cf + a0
 
 ## Two Sum
 
-Problem taken from [leetcode](leetcode.com)
+Problem taken from [leetcode.com](https://leetcode.com/)
 
 File: [two-sum.ipynb](two-sum.ipynb)
 
@@ -35,7 +35,7 @@ We have given list like `[1,3,5,6,11,23]` and sum of some two values from this l
 
 ## Roman to Int
 
-Problem taken from [leetcode](leetcode.com)
+Problem taken from [leetcode.com](https://leetcode.com/)
 
 File: [romanToInt.ipynb](romanToInt.ipynb)
 

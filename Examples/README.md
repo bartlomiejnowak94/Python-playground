@@ -6,6 +6,7 @@
   - [Roman to Int](#roman-to-int)
   - [Palindrome Number](#palindrome-number)
   - [Longest Common Prefix](#longest-common-prefix)
+  - [Valid Parentheses](#valid-parentheses)
 
 ## Continued Fraction
 
@@ -74,4 +75,22 @@ Given an integer x, return `true` if x is a palindrome, and `false` otherwise.
 
 ## Longest Common Prefix
 
+Problem taken from [leetcode.com](https://leetcode.com/)
+
+File [longest-common-prefix.ipynb]
+
 Write a function to find the longest common prefix string amongst an array of strings. If there is no common prefix, return an empty string `""`.
+
+## Valid Parentheses
+
+Problem taken from [leetcode.com](https://leetcode.com/)
+
+File [valid-parentheses.ipynb]
+
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+- Open brackets must be closed by the same type of brackets.
+- Open brackets must be closed in the correct order.
+- Every close bracket has a corresponding open bracket of the same type.
